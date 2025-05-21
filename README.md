@@ -1,5 +1,5 @@
 
-# 📦 PharmEasy Product Dissection & Growth Strategy (Group Project)
+# 📦 PharmEasy: Product Dissection, Growth Strategy & User Analytics (Group Project)
 
 A comprehensive product dissection, database schema design, and strategic growth analysis for **PharmEasy** — one of India’s leading e-pharmacy platforms. This project blends product analysis, real-world problem-solving, data modeling, A/B testing, and guesstimates to propose actionable strategies for increasing revenue and customer retention in digital healthcare.
 
@@ -47,8 +47,7 @@ This project aims to propose **data-driven solutions** that optimize operations,
 
 - **SQL**: Schema design, ER modeling  
 - **Python & Pandas**: Cohort retention, guesstimate modeling  
-- **Colab**: Jupyter notebook for analysis [📎 Link](https://colab.research.google.com/drive/1zWO_opF3absmZyoGEyVmLU1e_ieN1aSA?usp=sharing)  
-- **Tableau / Power BI** (Optional): Visualizations for churn, revenue tiers  
+- **Colab**: Jupyter notebook for analysis  
 - **Google Docs/PDF**: Project documentation
 
 ---
@@ -86,19 +85,6 @@ We answered with:
 | Mumbai Medicine Sales | ₹700 Cr (B2C + B2B) |
 | Delhi Diagnostic Revenue | ₹52 Cr |
 
----
-
-## 📁 Folder Structure
-
-```
-├── Cohort_Analysis.ipynb
-├── ER_Diagram.png
-├── PharmEasy_Schema.sql
-├── Guesstimates.xlsx
-├── AB_Test_Results.ipynb
-├── Report.pdf (uploaded here)
-└── README.md (you're here!)
-```
 
 ---
 
@@ -125,4 +111,4 @@ We answered with:
 ## 📬 Contact
 
 For feedback or collaboration:  
-**Mukesh Kumar** – [LinkedIn](https://www.linkedin.com) | [Email](mailto:yourname@email.com)
+**Mukesh Kumar**
